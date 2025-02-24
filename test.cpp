@@ -14,8 +14,5 @@ int main() {
     
     cin >> bananas >> bites;
     cout << bananas << " " << bites << endl;
-=======
-
->>>>>>> 27c9f54eb0b12c407a44a6120bdf86f29259da66
     return 0;
 }
